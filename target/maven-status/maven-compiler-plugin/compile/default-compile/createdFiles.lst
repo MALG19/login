@@ -1,0 +1,3 @@
+com\tiendamascotas\login\servlets\LoginServlet.class
+com\tiendamascotas\login\resources\JakartaEE10Resource.class
+com\tiendamascotas\login\JakartaRestConfiguration.class
